@@ -172,17 +172,17 @@ img {
     object-fit: cover;
 }
 
-/*quipo de trabajo*/
+/*Equipo de trabajo*/
 
 #team .section-title p {
-    max-width: 70%; /* El texto ocupa el 70% del ancho */
+    max-width: 70%; 
 }
 
 #team .team-member img {
-    width: 100%; /* Uniformiza el ancho de las imágenes */
-    max-height: 470px; /* Opcional: establece un límite de altura */
-    object-fit: cover; /* Asegura que las imágenes llenen el contenedor */
-    display: block; /* Para mejor alineación */
+    width: 100%; 
+    max-height: 470px; 
+    object-fit: cover; 
+    display: block;
 }
 
 #team .team-member {
